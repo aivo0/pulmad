@@ -1,0 +1,17 @@
+{
+  "bundler": "webpack",
+  "shimport": null,
+  "assets": {
+    "blog": "4e3d1a9f2dc8daf9003b/blog.blog.js",
+    "blog_$slug": "4e3d1a9f2dc8daf9003b/blog_$slug.blog_$slug.js",
+    "index": "4e3d1a9f2dc8daf9003b/index.index.js",
+    "main": "4e3d1a9f2dc8daf9003b/main.js"
+  },
+  "css": {
+    "chunks": {
+      "index.svelte": [],
+      "blog/index.svelte": [],
+      "blog/[slug].svelte": []
+    }
+  }
+}

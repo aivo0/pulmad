@@ -1,0 +1,1 @@
+{"bundler":"webpack","shimport":null,"assets":{"blog":"9980f9d84813dcf65002/blog.0.js","blog_$slug":"9980f9d84813dcf65002/blog_$slug.1.js","index":"9980f9d84813dcf65002/index.2.js","main":"9980f9d84813dcf65002/main.js"},"css":{"chunks":{"index.svelte":[],"blog/index.svelte":[],"blog/[slug].svelte":[]}}}
