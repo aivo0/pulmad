@@ -163,7 +163,7 @@
 					</div>
 					<div class="text">
 						<span>Tervitusjook</span>
-						<span>17:15</span>
+						<span>17:00</span>
 					</div>
 				</div>
 				<div class="icon">
